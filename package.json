@@ -1,0 +1,14 @@
+{
+  "name": "projectyoutube",
+  "version": "1.0.0",
+  "description": "Youtube an app to learn Backend with Code with Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Kashish Rajput",
+  "license": "ISC"
+}
